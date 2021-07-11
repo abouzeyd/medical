@@ -1,0 +1,6 @@
+[
+  { "title": "Doctor", "description": "Book an appointment" },
+  { "title": "Consult", "description": "With top doctors" },
+  { "title": "Pharmacy", "description": "Medcine product" },
+  { "title": "Diagnostics", "description": "Test & checkups" }
+]
